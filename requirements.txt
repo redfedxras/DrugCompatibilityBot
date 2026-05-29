@@ -1,0 +1,5 @@
+aiogram>=3.0
+aiohttp>=3.9
+pymed>=0.8.9
+deep-translator>=1.11
+python-dotenv>=1.0
